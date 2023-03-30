@@ -1,0 +1,19 @@
+
+  .kartyahatter{
+    background-color: silver;
+    opacity: 0.8;
+  }
+
+.hatterkep{
+  background-image: url(wallpaperflare.com_wallpaper.jpg);
+  background-size: cover;
+}
+
+.cim{
+  font-size: 60px;
+  text-align: center;
+}
+
+#kozep-kartya{
+  margin: auto;
+}
